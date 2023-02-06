@@ -6,7 +6,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "@hapi/hoek": "6.x.x",
-    "@hapi/joi": "15.x.x",
+    "@hapi/joi": "17.x.x",
     "json-stringify-safe": "5.x.x",
     "moment": "2.x.x"
   },
