@@ -1,6 +1,6 @@
 {
   "name": "@teladoc/good-console",
-  "version": "9.0.1",
+  "version": "9.0.2",
   "description": "Console broadcasting for Good process monitor",
   "source": "src/index.js",
   "main": "dist/index.js",
