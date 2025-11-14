@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
-    "@hapi/lab": "24.x.x",
+    "@hapi/lab": "26.x.x",
     "@hapi/teamwork": "5.x.x",
     "@teladoc/auto-config": "^1.1.7",
     "auto": "^11.0.4",
